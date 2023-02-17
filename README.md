@@ -20,7 +20,7 @@ Du gjør dette ved å kjøre følgene kommando:
 
 1. Kjør følgene kommando og legg inn filene du vil skal transkiberes:
     > bash open_data.sh
-2. Transkriber filene med følgende kommando (språk som skal transkiberes er satt til Norsk):
+2. Transkriber filene med følgende kommando (språk som skal transkiberes er satt til Norsk og fil-output er satt til .vtt):
     > bash run.sh
 3. Finn de transkriberte filene med følgende kommando:
     > bash open_output.sh
